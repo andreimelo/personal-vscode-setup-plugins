@@ -1,0 +1,39 @@
+{
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Activate UMBRA protocol",
+    "[javascript]": {
+        "editor.defaultFormatter": "remimarsal.prettier-now"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.breakBeforeElse": true,
+    "prettier.breakProperty": true,
+    "prettier.flattenTernaries": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.noSpaceEmptyFn": true,
+    "prettier.arrayExpand": true,
+    "prettier.alignObjectProperties": true,
+    "javascript.validate.enable": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "prettier.htmlWhitespaceSensitivity": "strict",
+    "prettier.printWidth": 90,
+    "prettier.trailingComma": "all",
+    "editor.formatOnType": true,
+    "css.lint.ieHack": "warning",
+    "scss.lint.ieHack": "warning",
+    "[css]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "sibiraj-s.vscode-scss-formatter"
+    },
+    "workbench.editor.showTabs": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
